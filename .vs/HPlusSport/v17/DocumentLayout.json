@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ASP.NET\\HPlusSport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|f:\\asp.net\\hplussport\\hplussport.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|f:\\asp.net\\hplussport\\hplussport.api\\models\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|f:\\asp.net\\hplussport\\hplussport.api\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|f:\\asp.net\\hplussport\\hplussport.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|f:\\asp.net\\hplussport\\hplussport.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|f:\\asp.net\\hplussport\\hplussport.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|f:\\asp.net\\hplussport\\hplussport.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|f:\\asp.net\\hplussport\\hplussport.api\\hplussport.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{239A0EF6-B92B-415B-AD18-F746C0D04844}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\hplussport.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HPlusSport.API.csproj",
+              "DocumentMoniker": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\HPlusSport.API.csproj",
+              "RelativeDocumentMoniker": "HPlusSport.API\\HPlusSport.API.csproj",
+              "ToolTip": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\HPlusSport.API.csproj",
+              "RelativeToolTip": "HPlusSport.API\\HPlusSport.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T18:52:26.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "HPlusSport.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:31:48.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Program.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Program.cs",
+              "ToolTip": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Program.cs",
+              "RelativeToolTip": "HPlusSport.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:23:00.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "HPlusSport.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAHMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:20:16.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\Category.cs",
+              "ToolTip": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Models\\Category.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:52:46.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Models\\ShopContext.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\ShopContext.cs",
+              "ToolTip": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Models\\ShopContext.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\ShopContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:11:41.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\Product.cs",
+              "ToolTip": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Models\\Product.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:56:55.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelBuilderExtension.cs",
+              "DocumentMoniker": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Models\\ModelBuilderExtension.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\ModelBuilderExtension.cs",
+              "ToolTip": "F:\\ASP.NET\\HPlusSport\\HPlusSport.API\\Models\\ModelBuilderExtension.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\ModelBuilderExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:41:17.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
